@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Gabinetes gamer RGB",
+      "category": "Gabinetes gamer",
+      "description": "Dale protagonismo a tu setup con un gabinete gamer y una estética RGB llamativa. Imagen ilustrativa: modelo, características y disponibilidad a confirmar.",
+      "image": "/assets/gabinete.webp",
+      "price": "",
+      "featured": true,
+      "visible": true
+    },
+    {
+      "id": "2",
+      "title": "Mouse Redragon",
+      "category": "Mouse gamer",
+      "description": "Completá tu escritorio con un mouse gamer de diseño ergonómico e iluminación RGB. Imagen ilustrativa: modelo, características y disponibilidad a confirmar.",
+      "image": "/assets/mouse.webp",
+      "price": "",
+      "featured": true,
+      "visible": true
+    },
+    {
+      "id": "3",
+      "title": "Teclados gamer RGB",
+      "category": "Teclados gamer",
+      "description": "Color, diseño y personalidad para tu setup. Consultanos por los teclados disponibles. Imagen ilustrativa: modelo, características y disponibilidad a confirmar.",
+      "image": "/assets/teclado.webp",
+      "price": "",
+      "featured": true,
+      "visible": true
+    },
+    {
+      "id": "4",
+      "title": "Monitores gamer",
+      "category": "Monitores",
+      "description": "Una pantalla que transforme tu experiencia. Consultanos por modelos, tamaños y características. Imagen ilustrativa: modelo, características y disponibilidad a confirmar.",
+      "image": "/assets/monitor.webp",
+      "price": "",
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "5",
+      "title": "Procesadores",
+      "category": "Procesadores",
+      "description": "El corazón de tu próxima actualización. Te ayudamos a elegir según tu equipo y tus necesidades. Imagen ilustrativa: modelo, características y disponibilidad a confirmar.",
+      "image": "/assets/procesador.webp",
+      "price": "",
+      "featured": false,
+      "visible": true
+    },
+    {
+      "id": "6",
+      "title": "Memorias RAM RGB",
+      "category": "Memorias RAM RGB",
+      "description": "Dale color a tu equipo con memorias RGB. Consultanos por capacidades y compatibilidad. Imagen ilustrativa: modelo, características y disponibilidad a confirmar.",
+      "image": "/assets/ram.webp",
+      "price": "",
+      "featured": true,
+      "visible": true
+    }
+  ],
+  "whatsapp": "5491154068752",
+  "address": "Achupallas 6506, esquina Garzón · Villa Dorrego, La Matanza, Buenos Aires",
+  "demo": true
+}
